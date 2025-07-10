@@ -1,6 +1,7 @@
 # Nursing-College-AI-Assistant-
-Livr DEmo: https://nursing-college-ai-assistant-4k95.vercel.app/
-Introduction
+Live Demo: https://nursing-college-ai-assistant-4k95.vercel.app/
+
+Introduction:
 The Nursing College AI Assistant is an innovative artificial intelligence solution designed to revolutionize administrative and educational processes in nursing education institutions. This intelligent assistant streamlines operations, enhances student support, and improves access to critical information for both students and faculty.
 
 
